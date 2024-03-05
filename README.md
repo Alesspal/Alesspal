@@ -1,13 +1,13 @@
 # Bienvenue sur Mon Portfolio GitHub
 
-<!--
 ## À Propos de Moi
-Je suis [Votre Nom], un développeur passionné par [Vos Domaines d'Intérêt]. J'aime créer des applications [Types d'Applications].
+Je suis Aless palumbi, un développeur passionné par le développement logiciel. Actuellement étudiant en informatique à l'école 42 Lausanne, j'ai développé de solides compétences en programmation et en développement grâce à une formation axée sur la pratique.
 
 ## Statistiques
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_d'utilisateur&show_icons=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_d'utilisateur&layout=compact)
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Alesspal&show_icons=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alesspal&layout=compact)
 
+<!--
 ## Mes Projets
 - [Nom du Projet](Lien vers le Projet) - Description brève du projet.
 - ![Image du Projet](Lien vers une image/GIF du projet)
