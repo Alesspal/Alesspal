@@ -1,7 +1,7 @@
 # Bienvenue sur Mon Portfolio GitHub
 
 ## À Propos de Moi
-Je suis Aless palumbi, un développeur passionné par le développement logiciel. Actuellement étudiant en informatique à l'école 42 Lausanne, j'ai développé de solides compétences en programmation et en développement grâce à une formation axée sur la pratique.
+Je suis Alessandro palumbi, un développeur passionné par le développement logiciel. Actuellement étudiant en informatique à l'école 42 Lausanne, j'ai développé de solides compétences en programmation et en développement grâce à une formation axée sur la pratique.
 
 ## Statistiques
 ![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Alesspal&show_icons=true)
