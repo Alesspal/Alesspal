@@ -1,5 +1,6 @@
 # Bienvenue sur Mon Portfolio GitHub
 
+<!--
 ## À Propos de Moi
 Je suis [Votre Nom], un développeur passionné par [Vos Domaines d'Intérêt]. J'aime créer des applications [Types d'Applications].
 
@@ -7,7 +8,6 @@ Je suis [Votre Nom], un développeur passionné par [Vos Domaines d'Intérêt]. 
 ![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_d'utilisateur&show_icons=true)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_d'utilisateur&layout=compact)
 
-<!--
 ## Mes Projets
 - [Nom du Projet](Lien vers le Projet) - Description brève du projet.
 - ![Image du Projet](Lien vers une image/GIF du projet)
