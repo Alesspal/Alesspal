@@ -18,7 +18,7 @@ De mon côté, je me lance dans l'apprentissage du Python et du TypeScript, éla
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alesspal&layout=compact)
 
-## Mes projets les plus concrêts
+## Mes projets les plus concrets
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesspal&repo=miniRT)](https://github.com/Alesspal/miniRT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesspal&repo=Pixobot)](https://github.com/Alesspal/Pixobot)
