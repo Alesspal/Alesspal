@@ -9,11 +9,9 @@ Je suis actuellement dans la dernière phase de mon cursus à 42 et je recherche
 
 ## Mes langages
 Pendant mon CFC, j'ai travaillé sur des projets utilisant des cartes Arduino, qui sont basées sur les langages C et C++.
-
 J'ai également travaillé avec le langage C# en utilisant le framework WPF, idéal pour développer facilement des applications de bureau grâce au langage de balisage XAML.
 
 À 42, le programme d'études se concentre aussi sur le C et le C++, offrant ainsi une base solide en programmation.
-
 Cependant, le projet final permet de diversifier nos compétences en abordant le JavaScript et le Python, ce qui renforce notre capacité à nous adapter rapidement à de nouveaux langages de programmation.
 
 De mon côté, je me lance dans l'apprentissage du Python et du TypeScript, élargissant ainsi mon éventail de compétences en programmation et me préparant à relever de nouveaux défis techniques.
