@@ -7,7 +7,7 @@ Après l'obtention de mon CFC, j'ai choisi de me plonger davantage dans ce domai
 
 Je suis actuellement dans la dernière phase de mon cursus à 42 et je recherche activement un stage pour finaliser mon diplôme. Je suis impatient à l'idée de travailler au sein d'une équipe expérimentée où je pourrai enrichir mes connaissances en technologies de pointe et en méthodologies de travail modernes.
 
-## Mes langages
+## Mes langages de programmation
 Pendant mon CFC, j'ai travaillé sur des projets utilisant des cartes Arduino, qui sont basées sur les langages C et C++.
 J'ai également travaillé avec le langage C# en utilisant le framework WPF, idéal pour développer facilement des applications de bureau grâce au langage de balisage XAML.
 
