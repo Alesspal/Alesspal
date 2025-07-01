@@ -1,30 +1,33 @@
 # Bienvenue sur mon GitHub
 
-## À propos de moi
+## À Propos de Moi
 
-Je m'appelle Alessandro Palumbi, j'ai 22 ans et je suis passionné par la programmation. Mon parcours a débuté avec un Certificat Fédéral de Capacité (CFC) en électronique, où j’ai découvert un fort intérêt pour le développement logiciel.
+Je m'appelle Alessandro Palumbi, j'ai 22 ans et je suis passionné par la programmation. Mon parcours a commencé avec un Certificat Fédéral de Capacité (CFC) en électronique, où j'ai découvert une passion pour la programmation, un domaine qui m'a profondément captivé par sa capacité à donner vie aux idées.
 
-Après le CFC, j’ai rejoint l’école 42 Lausanne, un environnement d’apprentissage intensif basé sur la pédagogie peer-to-peer et des projets concrets. Ce cadre m’a permis d’approfondir mes compétences techniques, en particulier en algorithmique, en programmation système, et en conception logicielle moderne.
+Après l'obtention de mon CFC, j'ai choisi de me plonger davantage dans ce domaine en intégrant l'école innovante 42 à Lausanne. C'est une école offrant un environnement d'apprentissage basé sur des projets pratiques et la méthode d'apprentissage peer-to-peer. C'est un lieu qui stimule constamment la créativité, l'autonomie, la collaboration et la résolution de problèmes.
 
-Récemment, j’ai effectué un stage de six mois suivi d’un CDD de trois mois chez **Rollomatic SA**, au sein de l’équipe R&D. J’y ai mené en autonomie le développement d’une solution logicielle complète, désormais déployée sur les machines **Rollomatic Laser**. Cette expérience m’a permis de :
+Au cours des neuf derniers mois, j’ai eu l’opportunité d’évoluer au sein de l’équipe R&D de **Rollomatic SA**, d’abord à travers un stage de six mois, puis un CDD de trois mois. J’y ai mené en autonomie le développement d’une solution logicielle, aujourd’hui déployée sur les machines **Rollomatic Laser**. Cette expérience m’a permis de :
 
-- Analyser les besoins techniques et fonctionnels d’un projet industriel
-- Développer des applications WPF complexes en C# (MVVM, UI responsive, tâches asynchrones)
+- Analyser les besoins technologiques et fonctionnels
+- Approfondir mes compétences en langage **C#**
 - Concevoir et déployer une **API RESTful** utilisée par plusieurs applications internes
-- Intégrer une base de données **NoSQL**
-- Collaborer avec différents corps de métier pour garantir la pertinence et la fiabilité de la solution
-
-Cette mission m’a permis de renforcer ma rigueur technique, mon autonomie, ainsi que mes compétences en conception logicielle et en collaboration interdisciplinaire.
+- Découvrir et intégrer une base de données **NoSQL**
+- Développer des applications **WPF** complexes (architecture **MVVM**, bindings dynamiques, design responsive, traitements asynchrones)
+- Collaborer étroitement avec différents corps de métiers pour garantir la qualité et la pertinence de la solution proposée
 
 ## Mes langages de programmation
 
-Pendant mon CFC, j'ai travaillé sur des projets avec cartes **Arduino** (C/C++), et développé des interfaces en **C#** avec le framework **WPF**.
+Pendant mon CFC, j'ai travaillé sur des projets utilisant des cartes Arduino, qui sont basées sur les langages C et C++.
+J'ai également travaillé avec le langage C# en utilisant le framework WPF, idéal pour développer facilement des applications de bureau grâce au langage de balisage XAML.
 
-À 42, la formation met l’accent sur les langages bas niveau (**C, C++**), ainsi que sur l’apprentissage autodirigé de technologies modernes. Dans ce contexte, j’ai également abordé **Python** et **JavaScript**, que je continue d’approfondir. Je me forme actuellement à **TypeScript** pour renforcer ma maîtrise des stacks modernes.
+À 42, le programme d'études se concentre aussi sur le C et le C++, offrant ainsi une base solide en programmation.
+Cependant, le projet final permet de diversifier nos compétences en abordant le JavaScript et le Python, ce qui renforce notre capacité à nous adapter rapidement à de nouveaux langages de programmation.
+
+De mon côté, je me lance dans l'apprentissage du Python et du TypeScript, élargissant ainsi mon éventail de compétences en programmation et me préparant à relever de nouveaux défis techniques.
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alesspal&layout=compact)
 
 ## Mes projets les plus concrets
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesspal&repo=miniRT)](https://github.com/Alesspal/miniRT)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesspal&repo=miniRT)](https://github.com/Alesspal/miniRT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesspal&repo=Pixobot)](https://github.com/Alesspal/Pixobot)
