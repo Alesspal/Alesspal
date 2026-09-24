@@ -6,7 +6,7 @@ Je m'appelle Alessandro Palumbi, j'ai 24 ans et je suis passionné par la progra
 
 Après l'obtention de mon CFC, j'ai choisi de me plonger davantage dans ce domaine en intégrant l'école innovante 42 à Lausanne, qui offre un environnement d'apprentissage basé sur des projets pratiques et la méthode d'apprentissage peer-to-peer. C'est un lieu qui stimule constamment la créativité, l'autonomie, la collaboration et la résolution de problèmes.
 
-J'ai ensuite passé quatorze mois au sein de l'équipe R&D de **Rollomatic SA**, d'abord à travers un stage de six mois, puis deux contrats à durée déterminée de quatre mois. J'y ai mené en autonomie le développement d'une solution logicielle, aujourd'hui déployée sur des machines **Rollomatic Laser** et utilisée en interne. Cette expérience m'a permis de :
+J'ai ensuite passé quatorze mois au sein de l'équipe R&D de **Rollomatic SA**, d'abord à travers un stage de six mois, puis deux contrats à durée déterminée de environ quatre mois. J'y ai mené en autonomie le développement d'une solution logicielle, aujourd'hui déployée sur des machines **Rollomatic Laser** et utilisée en interne. Cette expérience m'a permis de :
 
 - Analyser les besoins technologiques et fonctionnels
 - Approfondir mes compétences dans le langage **C#**
@@ -32,7 +32,13 @@ Cependant, le projet final permet de diversifier nos compétences en abordant le
 
 Aujourd'hui chez Sky, le C# reste mon langage principal pour le backend, et j'élargis mes compétences vers le développement mobile avec le Kotlin et le Swift.
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alesspal&layout=compact)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Mes projets les plus concrets
 
